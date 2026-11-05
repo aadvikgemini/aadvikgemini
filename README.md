@@ -1,110 +1,124 @@
- <!-- HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071426,45:102A43,75:155E75,100:0E7490&height=230&section=header&text=AADVIK%20GEMINI&fontSize=58&fontColor=E6F7FF&animation=fadeIn&fontAlignY=38&desc=LEARNING%20%E2%86%92%20BUILDING%20%E2%86%92%20INNOVATING&descSize=15&descColor=8BE9FD&descAlignY=58" width="100%" alt="Aadvik Gemini profile banner" />
-</p>
+ <!-- README.md -->
 
-<p align="center">
-  <b>CS & AI/ML Student</b> · <b>Aspiring Founder</b> · <b>Product Builder</b>
-  <br/>
-  Exploring software engineering, AI and cybersecurity — one project at a time.
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aadvikgemini&label=PROFILE%20VIEWS&color=0e7490&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/aadvikgemini?label=FOLLOWERS&style=flat-square&color=155e75" alt="GitHub followers" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:020617,50:071B35,100:020617&text=AADVIK%20GEMINI&fontColor=E0F7FF&fontSize=48&fontAlignY=38&desc=LEARNING%20%20%E2%86%92%20%20BUILDING%20%20%E2%86%92%20%20INNOVATING&descAlignY=60&descSize=14&animation=fadeIn" width="100%" />
 
----
+</div>
 
-## 01 / ABOUT
+<img src="./assets/code-orbit.gif" width="145" align="right" alt="Animated neon coding icon" />
 
-I'm a Computer Science and AI/ML student at **Newton School of Technology, Rishihood University**. I enjoy turning ideas into useful software, learning how systems work, and building products that solve practical problems.
+### `CS & AI/ML Student` · `Aspiring Founder` · `Builder`
 
-- 🔭 **Currently building:** [ScratchNotes](https://github.com/aadvikgemini/ScratchNotes)
-- 🌱 **Currently learning:** Backend development, cybersecurity and software engineering
-- 🧠 **Exploring:** AI/ML, product thinking, startups and open source
-- 🤝 **Open to:** Collaborating on thoughtful open-source projects
-- 📬 **Contact:** [aadvikgemini@gmail.com](mailto:aadvikgemini@gmail.com)
+Exploring **Artificial Intelligence, Cybersecurity and Software Engineering** — one project at a time.
+
+<br clear="right"/>
 
 ---
 
-## 02 / SELECTED BUILDS
+## `> whoami`
+
+I'm a Computer Science and AI/ML student at **Newton School of Technology, Rishihood University**.
+
+I enjoy building useful products, exploring how technology works, and turning ideas into practical projects.
+
+- 🚀 Currently building: **[ScratchNotes](https://github.com/aadvikgemini/ScratchNotes)**
+- 🧠 Exploring: Backend Development, AI/ML and Cybersecurity
+- 💻 Interested in: Software Engineering, Open Source and Startups
+- 🌱 Always learning, experimenting and building.
+
+---
+
+## `> featured_projects`
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📚 ScratchNotes</h3>
-      <p>A student-focused platform for organising, discovering and sharing academic resources.</p>
-      <p><sub>Backend Development · Product Engineering</sub></p>
-      <a href="https://github.com/aadvikgemini/ScratchNotes">VIEW REPOSITORY ↗</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌌 Aadvik Portfolio</h3>
-      <p>My personal portfolio — a place to present my projects, experiments and learning journey.</p>
-      <p><sub>React · TypeScript · Frontend</sub></p>
-      <a href="https://github.com/aadvikgemini/Aadvik-portfolio">VIEW REPOSITORY ↗</a>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 ScratchNotes
+
+A student-focused platform to organise, discover and share academic resources.
+
+**Tech:** Python · FastAPI · SQLite
+
+[View Repository →](https://github.com/aadvikgemini/ScratchNotes)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Aadvik Portfolio
+
+My personal developer portfolio showcasing my work, projects and learning journey.
+
+**Tech:** React · TypeScript · Tailwind CSS
+
+[View Repository →](https://github.com/aadvikgemini/Aadvik-portfolio)
+
+</td>
+</tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/aadvikgemini?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-0B2538?style=for-the-badge&logo=github&logoColor=8BE9FD" alt="Explore all repositories" />
-  </a>
-</p>
+---
+
+## `> tech_stack`
+
+**Languages & Core**
+
+![Python](https://img.shields.io/badge/Python-0B1628?style=for-the-badge&logo=python&logoColor=22D3EE)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B1628?style=for-the-badge&logo=typescript&logoColor=22D3EE)
+![HTML5](https://img.shields.io/badge/HTML5-0B1628?style=for-the-badge&logo=html5&logoColor=22D3EE)
+![CSS3](https://img.shields.io/badge/CSS3-0B1628?style=for-the-badge&logo=css3&logoColor=22D3EE)
+
+**Frameworks & Tools**
+
+![React](https://img.shields.io/badge/React-0B1628?style=for-the-badge&logo=react&logoColor=22D3EE)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-0B1628?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE)
+![FastAPI](https://img.shields.io/badge/FastAPI-0B1628?style=for-the-badge&logo=fastapi&logoColor=22D3EE)
+![Git](https://img.shields.io/badge/Git-0B1628?style=for-the-badge&logo=git&logoColor=22D3EE)
+![GitHub](https://img.shields.io/badge/GitHub-0B1628?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
 ---
 
-## 03 / TECH ARSENAL
+## `> github_analytics`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,react,html,css,tailwind,git,github&theme=dark" alt="Python, TypeScript, React, HTML, CSS, Tailwind CSS, Git and GitHub" />
-</p>
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aadvikgemini&show_icons=true&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
 
-## 04 / GITHUB ANALYTICS
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadvikgemini&layout=compact&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=C9D1D9" alt="Most used languages" />
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadvikgemini&theme=github_dark" width="96%" alt="GitHub profile contribution summary" />
-</p>
+<img width="75%" src="https://streak-stats.demolab.com?user=aadvikgemini&hide_border=true&background=020617&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadvikgemini&show_icons=true&include_all_commits=true&hide_border=true&bg_color=071426&title_color=8BE9FD&text_color=C9D8E8&icon_color=38BDF8&rank_icon=github" height="175" alt="GitHub statistics including stars" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadvikgemini&layout=compact&hide_border=true&bg_color=071426&title_color=8BE9FD&text_color=C9D8E8&langs_count=6" height="175" alt="Most used programming languages" />
-</p>
+</div>
 
 ---
 
-## 05 / CONTRIBUTION TIMELINE
+## `> contribution_activity`
 
-<p align="center">
-  <img src="https://github-activity-graph.luckylinux.dev/graph?username=aadvikgemini&bg_color=071426&color=C9D8E8&line=38BDF8&point=8BE9FD&area=true&hide_border=true&title_color=8BE9FD&radius=8" width="98%" alt="GitHub contribution and commit activity graph" />
-</p>
+<div align="center">
 
----
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aadvikgemini&bg_color=020617&color=C9D1D9&line=22D3EE&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph" />
 
-## 06 / BEYOND THE CODE
-
-- 🚀 Building a strong foundation in computer science and software development
-- 🔐 Exploring cybersecurity and systems
-- 🧩 Interested in hackathons, open-source contributions and solving real-world problems
-- 🌱 Believer in learning by building, testing and improving
+</div>
 
 ---
 
-## 07 / FIND ME
+## `> beyond_the_code`
 
-<p align="center">
-  <a href="https://github.com/aadvikgemini"><img src="https://img.shields.io/badge/GitHub-0B2538?style=for-the-badge&logo=github&logoColor=8BE9FD" alt="GitHub" /></a>
-  <a href="https://instagram.com/a_a_d_v_i_k8913"><img src="https://img.shields.io/badge/Instagram-0B2538?style=for-the-badge&logo=instagram&logoColor=8BE9FD" alt="Instagram" /></a>
-  <a href="mailto:aadvikgemini@gmail.com"><img src="https://img.shields.io/badge/Email-0B2538?style=for-the-badge&logo=gmail&logoColor=8BE9FD" alt="Email" /></a>
-</p>
+My goal is to keep learning, build meaningful products, contribute to open source and explore the intersection of **AI, software and cybersecurity**.
 
-<p align="center">
-  <i>Building with curiosity. Improving with every commit.</i>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,45:155E75,75:102A43,100:071426&height=110&section=footer" width="100%" alt="Footer banner" />
-</p>
+### Let's connect and build something meaningful.
+
+[![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/aadvikgemini)
+[![Instagram](https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=22D3EE)](https://instagram.com/a_a_d_v_i_k8913)
+[![Email](https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:aadvikgemini@gmail.com)
+
+<br/>
+
+**`DREAM BIGGER. BUILD BETTER.`**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:020617,50:071B35,100:020617&section=footer" width="100%" />
+
+</div>
