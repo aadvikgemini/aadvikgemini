@@ -1,106 +1,110 @@
-# 👋 Hi, I'm Aadvik Gemini
-
-### CS & AI/ML Student | Aspiring Founder | Developer | Building What's Next 🚀
+ <!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071426,45:102A43,75:155E75,100:0E7490&height=230&section=header&text=AADVIK%20GEMINI&fontSize=58&fontColor=E6F7FF&animation=fadeIn&fontAlignY=38&desc=LEARNING%20%E2%86%92%20BUILDING%20%E2%86%92%20INNOVATING&descSize=15&descColor=8BE9FD&descAlignY=58" width="100%" alt="Aadvik Gemini profile banner" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aadvikgemini&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/aadvikgemini?label=Followers&style=flat&color=blue" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/repos/aadvikgemini?label=Public%20Repos&style=flat&color=brightgreen" alt="Public repositories" />
+  <b>CS & AI/ML Student</b> · <b>Aspiring Founder</b> · <b>Product Builder</b>
+  <br/>
+  Exploring software engineering, AI and cybersecurity — one project at a time.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aadvikgemini&label=PROFILE%20VIEWS&color=0e7490&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/aadvikgemini?label=FOLLOWERS&style=flat-square&color=155e75" alt="GitHub followers" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 01 / ABOUT
 
-I'm a Computer Science and AI/ML student at **Newton School of Technology**, interested in building useful products and exploring emerging technologies.
+I'm a Computer Science and AI/ML student at **Newton School of Technology, Rishihood University**. I enjoy turning ideas into useful software, learning how systems work, and building products that solve practical problems.
 
-- 🔭 Currently building **[ScratchNotes](https://github.com/aadvikgemini/ScratchNotes)**
-- 🌱 Learning **Backend Development, Cybersecurity & Software Engineering**
-- 👯 Interested in collaborating on open-source projects and innovative products
-- 💡 Exploring **AI/ML, cybersecurity, startups and product development**
-- 🎯 Working towards becoming a better engineer by learning, building and experimenting
-- 📫 Reach me at: **aadvikgemini@gmail.com**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,ts" alt="Python and TypeScript" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" alt="React, HTML, CSS and Tailwind CSS" />
-</p>
-
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github" alt="Git and GitHub" />
-</p>
+- 🔭 **Currently building:** [ScratchNotes](https://github.com/aadvikgemini/ScratchNotes)
+- 🌱 **Currently learning:** Backend development, cybersecurity and software engineering
+- 🧠 **Exploring:** AI/ML, product thinking, startups and open source
+- 🤝 **Open to:** Collaborating on thoughtful open-source projects
+- 📬 **Contact:** [aadvikgemini@gmail.com](mailto:aadvikgemini@gmail.com)
 
 ---
 
-## 💻 Featured Projects
+## 02 / SELECTED BUILDS
 
-### 📚 [ScratchNotes](https://github.com/aadvikgemini/ScratchNotes)
-A student-focused academic resource platform designed to make sharing, discovering and organising study materials easier.
-
-**Focus:** Backend Development · Product Engineering
-
-### 🌐 [Aadvik Portfolio](https://github.com/aadvikgemini/Aadvik-portfolio)
-My personal developer portfolio showcasing my work, interests and journey in technology.
-
-**Focus:** React · TypeScript · Frontend Development
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📚 ScratchNotes</h3>
+      <p>A student-focused platform for organising, discovering and sharing academic resources.</p>
+      <p><sub>Backend Development · Product Engineering</sub></p>
+      <a href="https://github.com/aadvikgemini/ScratchNotes">VIEW REPOSITORY ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌌 Aadvik Portfolio</h3>
+      <p>My personal portfolio — a place to present my projects, experiments and learning journey.</p>
+      <p><sub>React · TypeScript · Frontend</sub></p>
+      <a href="https://github.com/aadvikgemini/Aadvik-portfolio">VIEW REPOSITORY ↗</a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://github.com/aadvikgemini?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" />
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-0B2538?style=for-the-badge&logo=github&logoColor=8BE9FD" alt="Explore all repositories" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 03 / TECH ARSENAL
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aadvikgemini&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadvikgemini&layout=compact&hide_border=true&langs_count=8" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aadvikgemini&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://skillicons.dev/icons?i=python,ts,react,html,css,tailwind,git,github&theme=dark" alt="Python, TypeScript, React, HTML, CSS, Tailwind CSS, Git and GitHub" />
 </p>
 
 ---
 
-## 📈 Contribution Activity
+## 04 / GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadvikgemini&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution and commit activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadvikgemini&theme=github_dark" width="96%" alt="GitHub profile contribution summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadvikgemini&show_icons=true&include_all_commits=true&hide_border=true&bg_color=071426&title_color=8BE9FD&text_color=C9D8E8&icon_color=38BDF8&rank_icon=github" height="175" alt="GitHub statistics including stars" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadvikgemini&layout=compact&hide_border=true&bg_color=071426&title_color=8BE9FD&text_color=C9D8E8&langs_count=6" height="175" alt="Most used programming languages" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 05 / CONTRIBUTION TIMELINE
 
-<p align="left">
-  <a href="https://github.com/aadvikgemini">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://instagram.com/a_a_d_v_i_k8913">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:aadvikgemini@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<p align="center">
+  <img src="https://github-activity-graph.luckylinux.dev/graph?username=aadvikgemini&bg_color=071426&color=C9D8E8&line=38BDF8&point=8BE9FD&area=true&hide_border=true&title_color=8BE9FD&radius=8" width="98%" alt="GitHub contribution and commit activity graph" />
 </p>
 
 ---
 
+## 06 / BEYOND THE CODE
+
+- 🚀 Building a strong foundation in computer science and software development
+- 🔐 Exploring cybersecurity and systems
+- 🧩 Interested in hackathons, open-source contributions and solving real-world problems
+- 🌱 Believer in learning by building, testing and improving
+
+---
+
+## 07 / FIND ME
+
 <p align="center">
-  <i>"Learning → Building → Innovating → Entrepreneurship"</i>
-  <br />
-  ⭐ Thanks for visiting my profile!
+  <a href="https://github.com/aadvikgemini"><img src="https://img.shields.io/badge/GitHub-0B2538?style=for-the-badge&logo=github&logoColor=8BE9FD" alt="GitHub" /></a>
+  <a href="https://instagram.com/a_a_d_v_i_k8913"><img src="https://img.shields.io/badge/Instagram-0B2538?style=for-the-badge&logo=instagram&logoColor=8BE9FD" alt="Instagram" /></a>
+  <a href="mailto:aadvikgemini@gmail.com"><img src="https://img.shields.io/badge/Email-0B2538?style=for-the-badge&logo=gmail&logoColor=8BE9FD" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <i>Building with curiosity. Improving with every commit.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E7490,45:155E75,75:102A43,100:071426&height=110&section=footer" width="100%" alt="Footer banner" />
 </p>
