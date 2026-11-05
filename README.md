@@ -158,7 +158,7 @@ Stack : React · TypeScript · Tailwind CSS · Vite
 
 <br/><br/>
 
-<img width="72%" src="https://streak-stats.demolab.com?user=aadvikgemini&hide_border=true&background=020617&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak Statistics" />
+<img width="85%" src="./assets/telemetry-waveform.svg" alt="GitHub Commit Telemetry & Activity Waveform" />
 
 </div>
 

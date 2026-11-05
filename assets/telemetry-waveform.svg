@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 180" width="100%" height="180">
+  <defs>
+    <linearGradient id="opt3Bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B132B"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0.0"/>
+    </linearGradient>
+    <filter id="waveGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+  <style>
+    .mono { font-family: 'SF Mono', 'Fira Code', 'JetBrains Mono', Consolas, monospace; }
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, sans-serif; }
+  </style>
+
+  <rect width="680" height="180" rx="12" fill="url(#opt3Bg)" stroke="#082F49" stroke-width="1.5"/>
+
+  <!-- Left Stats Info -->
+  <g transform="translate(30, 36)">
+    <text x="0" y="0" fill="#22D3EE" class="mono" font-size="10.5" font-weight="700" letter-spacing="1">⚡ GIT COMMIT ACTIVITY</text>
+    <text x="0" y="38" fill="#FFFFFF" class="sans" font-size="34" font-weight="800">37 <tspan fill="#64748B" font-size="16" font-weight="500">Commits</tspan></text>
+    
+    <g transform="translate(0, 64)" class="mono" font-size="9.5">
+      <text x="0" y="0" fill="#94A3B8">Current Streak : <tspan fill="#22D3EE" font-weight="700">1 Day (Active)</tspan></text>
+      <text x="0" y="18" fill="#94A3B8">Longest Streak : <tspan fill="#38BDF8" font-weight="700">3 Days</tspan></text>
+      <text x="0" y="36" fill="#94A3B8">Telemetry Cadence: <tspan fill="#10B981" font-weight="700">Synchronized</tspan></text>
+    </g>
+  </g>
+
+  <!-- Right Visual ECG / Cadence Wave Graph -->
+  <g transform="translate(320, 24)">
+    <rect width="330" height="132" rx="8" fill="#071426" stroke="#1E293B" stroke-width="1"/>
+    
+    <!-- Background Grid Lines -->
+    <line x1="16" y1="36" x2="314" y2="36" stroke="#0F223A" stroke-width="1"/>
+    <line x1="16" y1="68" x2="314" y2="68" stroke="#0F223A" stroke-width="1"/>
+    <line x1="16" y1="100" x2="314" y2="100" stroke="#0F223A" stroke-width="1"/>
+
+    <!-- Filled Area under wave -->
+    <path d="M 20 108 L 50 108 L 80 94 L 110 94 L 140 108 L 170 52 L 200 70 L 230 40 L 260 76 L 290 32 L 310 50 L 310 118 L 20 118 Z" fill="url(#waveGrad)"/>
+
+    <!-- Wave Stroke -->
+    <path d="M 20 108 L 50 108 L 80 94 L 110 94 L 140 108 L 170 52 L 200 70 L 230 40 L 260 76 L 290 32 L 310 50" fill="none" stroke="#22D3EE" stroke-width="2.5" filter="url(#waveGlow)"/>
+
+    <!-- Data Nodes -->
+    <circle cx="170" cy="52" r="3.5" fill="#67E8F9"/>
+    <circle cx="230" cy="40" r="3.5" fill="#67E8F9"/>
+    <circle cx="290" cy="32" r="4.5" fill="#FFFFFF" stroke="#22D3EE" stroke-width="2"/>
+
+    <!-- Timestamp Label -->
+    <text x="20" y="24" fill="#64748B" class="mono" font-size="8.5">COMMIT ACTIVITY WAVEFORM</text>
+    <text x="310" y="24" fill="#22D3EE" class="mono" font-size="8.5" text-anchor="end">LIVE PEAK</text>
+  </g>
+</svg>
