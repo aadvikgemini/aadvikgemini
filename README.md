@@ -5,8 +5,8 @@
 
 <br/><br/>
 
-<!-- 3D Orbiting Coding Emblem -->
-<img src="./assets/code-orbit.gif" width="160" alt="Animated 3D Coding Brackets" />
+<!-- Holographic Developer ID Credential Badge -->
+<img src="./assets/holographic-id-badge.svg" width="100%" alt="Aadvik Gemini Holographic Developer Credential" />
 
 <br/>
 
