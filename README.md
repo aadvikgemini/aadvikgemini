@@ -1,158 +1,204 @@
- <div align="center">
+<div align="center">
 
-# AADVIK GEMINI
+<!-- Hero Banner Header -->
+<img src="./assets/hero-banner.svg" width="100%" alt="Aadvik Gemini — CS & AI/ML Student, Developer, Builder" />
 
-### `CS & AI/ML STUDENT` · `DEVELOPER` · `BUILDER`
+<br/><br/>
 
-**LEARN. ENGINEER. BUILD. REPEAT.**
+<!-- 3D Orbiting Coding Emblem -->
+<img src="./assets/code-orbit.gif" width="160" alt="Animated 3D Coding Brackets" />
 
-<img src="./assets/code-orbit.gif" width="155" alt="Animated 3D coding symbol" />
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-aadvikgemini-0B1628?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/aadvikgemini)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-0B1628?style=for-the-badge&logo=googlechrome&logoColor=22D3EE)](https://github.com/aadvikgemini/Aadvik-portfolio)
-[![Email](https://img.shields.io/badge/Email-Connect-0B1628?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:aadvikgemini@gmail.com)
+<!-- Quick Navigation & Identity Badges -->
+<a href="https://github.com/aadvikgemini">
+  <img src="https://img.shields.io/badge/GitHub-aadvikgemini-0B1628?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub" />
+</a>
+&nbsp;
+<a href="https://github.com/aadvikgemini/Aadvik-portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-0B1628?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="mailto:aadvikgemini@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Connect-0B1628?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" />
+</a>
+&nbsp;
+<a href="https://instagram.com/a_a_d_v_i_k8913">
+  <img src="https://img.shields.io/badge/Instagram-Connect-0B1628?style=for-the-badge&logo=instagram&logoColor=22D3EE" alt="Instagram" />
+</a>
+
+<br/><br/>
+
+<img src="./assets/cyber-divider.svg" width="100%" alt="divider" />
 
 </div>
 
----
-
 ## `01 / ABOUT ME`
 
-I'm a Computer Science and AI/ML student at **Newton School of Technology, Rishihood University**, interested in building technology that solves real problems.
+I am a Computer Science and AI/ML student at **Newton School of Technology, Rishihood University**, focused on building practical, high-performance software and mastering engineering fundamentals.
 
-I enjoy working across software engineering, artificial intelligence and cybersecurity, while continuously improving my engineering fundamentals.
+I explore full-stack architecture, backend systems, machine learning, and cybersecurity — transforming theoretical concepts into resilient, production-ready code.
 
-- Currently building student-focused software products.
-- Exploring backend development and system design.
-- Learning more about AI/ML and cybersecurity.
-- Interested in open source, hackathons and entrepreneurship.
+- 🛠️ **Engineering Focus:** Robust backend design, API integration, and full-stack software development.
+- 🔬 **Continuous Learning:** Exploring deep learning architectures, cryptographic security, and systems programming.
+- 🚀 **Builder Mindset:** Active hackathon participant, open-source contributor, and aspiring technology founder.
+- 🎯 **Long-Term Objective:** Crafting scalable software solutions that solve real-world human problems.
 
----
+<div align="center">
+  <img src="./assets/cyber-divider.svg" width="100%" alt="divider" />
+</div>
 
 ## `02 / DEVELOPER TERMINAL`
 
-```bash
-aadvik@engineering:~$ whoami
+<div align="center">
+  <img src="./assets/terminal-card.svg" width="100%" alt="Developer Terminal Identity Card" />
+</div>
 
-Name       : Aadvik Gemini
-Role       : CS & AI/ML Student
-University : Newton School of Technology
-Interests  : Software Engineering
-             Artificial Intelligence
-             Cybersecurity
-             Entrepreneurship
-Status     : Learning & Building
+<div align="center">
+  <img src="./assets/cyber-divider.svg" width="100%" alt="divider" />
+</div>
 
-aadvik@engineering:~$ echo "Let's build something meaningful."
-```
-
----
-
-## `03 / SELECTED PROJECTS`
+## `03 / FEATURED PROJECTS`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ScratchNotes
+### 📘 [ScratchNotes](https://github.com/aadvikgemini/ScratchNotes)
+> *Academic resource-sharing platform engineered for seamless student collaboration.*
 
-A student-focused academic resource platform designed to make learning materials easier to organise, discover and share.
+- **Architecture:** High-performance RESTful API backend built with FastAPI & SQLAlchemy 2.x.
+- **Security:** Argon2id cryptographic password hashing, stateless HS256 JWT authentication, and sliding-window IP rate limiting.
+- **File Pipeline:** Streamed multipart upload engine with UUID keys and binary download stream tracking.
 
-**Stack:** Python · FastAPI · SQLite
+<br/>
 
-[![Repository](https://img.shields.io/badge/VIEW_PROJECT-0B1628?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/aadvikgemini/ScratchNotes)
+```text
+Stack : Python · FastAPI · SQLite · Pydantic · JWT
+```
+
+<a href="https://github.com/aadvikgemini/ScratchNotes">
+  <img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-0B1628?style=for-the-badge&logo=github&logoColor=22D3EE" alt="View ScratchNotes" />
+</a>
 
 </td>
 <td width="50%" valign="top">
 
-### Personal Portfolio
+### 🌐 [Personal Portfolio](https://github.com/aadvikgemini/Aadvik-portfolio)
+> *Interactive personal developer portfolio showcasing engineering projects and identity.*
 
-A personal website showcasing my developer identity, projects and learning journey.
+- **Frontend Core:** Built with React 18 and strict TypeScript for robust type safety.
+- **User Interface:** Styled using Tailwind CSS with custom responsive layouts and fluid interactions.
+- **Build Tooling:** Bundled with Vite for instant hot-module replacement and optimized static assets.
 
-**Stack:** React · TypeScript · Tailwind CSS
+<br/>
 
-[![Repository](https://img.shields.io/badge/VIEW_PROJECT-0B1628?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/aadvikgemini/Aadvik-portfolio)
+```text
+Stack : React · TypeScript · Tailwind CSS · Vite
+```
+
+<a href="https://github.com/aadvikgemini/Aadvik-portfolio">
+  <img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-0B1628?style=for-the-badge&logo=github&logoColor=22D3EE" alt="View Portfolio" />
+</a>
 
 </td>
 </tr>
 </table>
 
----
+<div align="center">
+  <img src="./assets/cyber-divider.svg" width="100%" alt="divider" />
+</div>
 
 ## `04 / ENGINEERING ARSENAL`
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0B1628?style=for-the-badge&logo=python&logoColor=22D3EE)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B1628?style=for-the-badge&logo=typescript&logoColor=22D3EE)
-![HTML5](https://img.shields.io/badge/HTML5-0B1628?style=for-the-badge&logo=html5&logoColor=22D3EE)
-![CSS3](https://img.shields.io/badge/CSS3-0B1628?style=for-the-badge&logo=css3&logoColor=22D3EE)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-0B1628?style=for-the-badge&logo=react&logoColor=22D3EE)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0B1628?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE)
-![Vite](https://img.shields.io/badge/Vite-0B1628?style=for-the-badge&logo=vite&logoColor=22D3EE)
-
-**Backend & Tools**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0B1628?style=for-the-badge&logo=fastapi&logoColor=22D3EE)
-![SQLite](https://img.shields.io/badge/SQLite-0B1628?style=for-the-badge&logo=sqlite&logoColor=22D3EE)
-![Git](https://img.shields.io/badge/Git-0B1628?style=for-the-badge&logo=git&logoColor=22D3EE)
-![GitHub](https://img.shields.io/badge/GitHub-0B1628?style=for-the-badge&logo=github&logoColor=FFFFFF)
-
----
-
-## `05 / GITHUB ANALYTICS`
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aadvikgemini&show_icons=true&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub statistics" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadvikgemini&layout=compact&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=C9D1D9" alt="Most used languages" />
+#### Core Languages & Foundation
+<img src="https://img.shields.io/badge/Python-0B1628?style=for-the-badge&logo=python&logoColor=22D3EE" alt="Python" />
+&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-0B1628?style=for-the-badge&logo=typescript&logoColor=22D3EE" alt="TypeScript" />
+&nbsp;
+<img src="https://img.shields.io/badge/HTML5-0B1628?style=for-the-badge&logo=html5&logoColor=22D3EE" alt="HTML5" />
+&nbsp;
+<img src="https://img.shields.io/badge/CSS3-0B1628?style=for-the-badge&logo=css3&logoColor=22D3EE" alt="CSS3" />
 
 <br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=aadvikgemini&hide_border=true&background=020617&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak statistics" />
+#### Frontend Development
+<img src="https://img.shields.io/badge/React-0B1628?style=for-the-badge&logo=react&logoColor=22D3EE" alt="React" />
+&nbsp;
+<img src="https://img.shields.io/badge/Tailwind_CSS-0B1628?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE" alt="Tailwind CSS" />
+&nbsp;
+<img src="https://img.shields.io/badge/Vite-0B1628?style=for-the-badge&logo=vite&logoColor=22D3EE" alt="Vite" />
+
+<br/>
+
+#### Backend, Storage & Tooling
+<img src="https://img.shields.io/badge/FastAPI-0B1628?style=for-the-badge&logo=fastapi&logoColor=22D3EE" alt="FastAPI" />
+&nbsp;
+<img src="https://img.shields.io/badge/SQLite-0B1628?style=for-the-badge&logo=sqlite&logoColor=22D3EE" alt="SQLite" />
+&nbsp;
+<img src="https://img.shields.io/badge/Git-0B1628?style=for-the-badge&logo=git&logoColor=22D3EE" alt="Git" />
+&nbsp;
+<img src="https://img.shields.io/badge/GitHub-0B1628?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 
 </div>
 
----
+<div align="center">
+  <img src="./assets/cyber-divider.svg" width="100%" alt="divider" />
+</div>
 
-## `06 / CONTRIBUTION ACTIVITY`
+## `05 / TELEMETRY & GITHUB METRICS`
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aadvikgemini&bg_color=020617&color=C9D1D9&line=22D3EE&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aadvikgemini&show_icons=true&hide_border=true&bg_color=020617&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub Statistics" />
+&nbsp;
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aadvikgemini&layout=compact&hide_border=true&bg_color=020617&title_color=22D3EE&text_color=C9D1D9" alt="Most Used Languages" />
+
+<br/><br/>
+
+<img width="72%" src="https://streak-stats.demolab.com?user=aadvikgemini&hide_border=true&background=020617&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak Statistics" />
 
 </div>
 
----
+<div align="center">
+  <img src="./assets/cyber-divider.svg" width="100%" alt="divider" />
+</div>
 
-## `07 / CURRENT FOCUS`
+## `06 / CURRENT ENGINEERING SPRINT`
 
 ```text
-[01] Strengthening programming fundamentals
-[02] Building practical software projects
-[03] Exploring backend engineering
-[04] Learning AI/ML and cybersecurity
-[05] Preparing for open-source contributions
+[01] Deepening Data Structures & Algorithms problem-solving discipline
+[02] Expanding ScratchNotes platform architecture & documentation
+[03] Engineering secure RESTful APIs with strict validation & rate limiting
+[04] Exploring Machine Learning foundations & cryptographic security
+[05] Preparing collaborative open-source contributions for developer tooling
 ```
 
----
+<div align="center">
+  <img src="./assets/cyber-divider.svg" width="100%" alt="divider" />
+</div>
 
-## `08 / CONNECT WITH ME`
+## `07 / CONNECT & COLLABORATE`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22D3EE)](https://github.com/aadvikgemini)
-[![Instagram](https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=22D3EE)](https://instagram.com/a_a_d_v_i_k8913)
-[![Email](https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:aadvikgemini@gmail.com)
+<a href="https://github.com/aadvikgemini">
+  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=22D3EE" alt="GitHub Profile" />
+</a>
+&nbsp;
+<a href="https://instagram.com/a_a_d_v_i_k8913">
+  <img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=22D3EE" alt="Instagram Profile" />
+</a>
+&nbsp;
+<a href="mailto:aadvikgemini@gmail.com">
+  <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Direct Email" />
+</a>
 
-<br/>
+<br/><br/>
 
-### `ENGINEER YOUR IDEAS. BUILD YOUR FUTURE.`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:082F49,100:020617&height=100&section=footer" width="100%" />
+<!-- Custom Cybernetic Footer Banner -->
+<img src="./assets/cyber-footer.svg" width="100%" alt="ENGINEER YOUR IDEAS. BUILD YOUR FUTURE." />
 
 </div>

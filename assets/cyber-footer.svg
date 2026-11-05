@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 80" width="100%" height="80">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="50%" stop-color="#071426"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="textCyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#67E8F9"/>
+      <stop offset="50%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+    <filter id="fGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- Container -->
+  <rect width="920" height="80" rx="10" fill="url(#footerBg)" stroke="#1E293B" stroke-width="1"/>
+
+  <!-- Tech Corner Markers -->
+  <path d="M 16 26 L 16 16 L 26 16" fill="none" stroke="#22D3EE" stroke-width="1.5" opacity="0.6"/>
+  <path d="M 904 26 L 904 16 L 894 16" fill="none" stroke="#22D3EE" stroke-width="1.5" opacity="0.6"/>
+  <path d="M 16 54 L 16 64 L 26 64" fill="none" stroke="#22D3EE" stroke-width="1.5" opacity="0.6"/>
+  <path d="M 904 54 L 904 64 L 894 64" fill="none" stroke="#22D3EE" stroke-width="1.5" opacity="0.6"/>
+
+  <!-- Footer Text -->
+  <g text-anchor="middle">
+    <text x="460" y="38" fill="url(#textCyan)" font-family="'SF Mono', 'Fira Code', 'JetBrains Mono', monospace" font-size="14" font-weight="700" letter-spacing="4" filter="url(#fGlow)">
+      ENGINEER YOUR IDEAS. BUILD YOUR FUTURE.
+    </text>
+    <text x="460" y="58" fill="#64748B" font-family="'SF Mono', monospace" font-size="10.5" letter-spacing="1.5">
+      AADVIK GEMINI · CRAFTED WITH PRECISION IN MIDNIGHT ENGINEERING
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 360" width="100%" height="100%">
+  <defs>
+    <!-- Card Background Gradient -->
+    <linearGradient id="termBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#071426"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+
+    <!-- Header Gradient -->
+    <linearGradient id="headerBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="100%" stop-color="#0B132B"/>
+    </linearGradient>
+
+    <!-- Glowing Text Filter -->
+    <filter id="promptGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <style>
+    .code {
+      font-family: 'SF Mono', 'Fira Code', 'JetBrains Mono', 'Consolas', monospace;
+      font-size: 13.5px;
+      line-height: 22px;
+    }
+    .prompt { fill: #22D3EE; font-weight: 700; }
+    .cmd { fill: #F8FAFC; font-weight: 600; }
+    .key { fill: #67E8F9; font-weight: 600; }
+    .val { fill: #C9D1D9; }
+    .highlight { fill: #38BDF8; font-weight: 600; }
+    .comment { fill: #64748B; font-style: italic; }
+    .cursor { fill: #22D3EE; animation: blink 1s step-end infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <!-- Terminal Window Shell -->
+  <rect width="860" height="360" rx="12" fill="url(#termBg)" stroke="#1E293B" stroke-width="1.5"/>
+
+  <!-- Window Header Bar -->
+  <path d="M 0 12 C 0 5.37 5.37 0 12 0 L 848 0 C 854.63 0 860 5.37 860 12 L 860 38 L 0 38 Z" fill="url(#headerBg)" stroke="#1E293B" stroke-width="1"/>
+
+  <!-- macOS Control Window Buttons -->
+  <circle cx="24" cy="19" r="6" fill="#EF4444" stroke="#DC2626" stroke-width="0.5"/>
+  <circle cx="44" cy="19" r="6" fill="#F59E0B" stroke="#D97706" stroke-width="0.5"/>
+  <circle cx="64" cy="19" r="6" fill="#10B981" stroke="#059669" stroke-width="0.5"/>
+
+  <!-- Window Title -->
+  <g text-anchor="middle">
+    <text x="430" y="24" fill="#94A3B8" font-family="'SF Mono', monospace" font-size="12" font-weight="600" letter-spacing="1">
+      aadvik@engineering: ~ (zsh)
+    </text>
+  </g>
+
+  <!-- Terminal Body Content -->
+  <g transform="translate(28, 70)" class="code">
+    <!-- Prompt 1: whoami -->
+    <text x="0" y="0">
+      <tspan class="prompt">aadvik@engineering</tspan><tspan fill="#64748B">:</tspan><tspan fill="#38BDF8">~</tspan><tspan fill="#64748B">$ </tspan><tspan class="cmd">whoami --identity</tspan>
+    </text>
+
+    <!-- Identity Key-Value Telemetry -->
+    <text x="0" y="32">
+      <tspan class="key">Name         </tspan><tspan fill="#64748B">: </tspan><tspan class="cmd">Aadvik Gemini</tspan>
+    </text>
+    <text x="0" y="58">
+      <tspan class="key">Education    </tspan><tspan fill="#64748B">: </tspan><tspan class="val">B.Tech in Computer Science &amp; AI/ML</tspan>
+    </text>
+    <text x="0" y="84">
+      <tspan class="key">University   </tspan><tspan fill="#64748B">: </tspan><tspan class="val">Newton School of Technology, Rishihood University</tspan>
+    </text>
+    <text x="0" y="110">
+      <tspan class="key">Focus Areas  </tspan><tspan fill="#64748B">: </tspan><tspan class="highlight">Full-Stack Development · Backend Systems · AI/ML · Cybersecurity</tspan>
+    </text>
+    <text x="0" y="136">
+      <tspan class="key">Passions     </tspan><tspan fill="#64748B">: </tspan><tspan class="val">Hackathons · Open Source · Systems Architecture · Tech Startups</tspan>
+    </text>
+    <text x="0" y="162">
+      <tspan class="key">Status       </tspan><tspan fill="#64748B">: </tspan><tspan fill="#10B981" font-weight="700">● </tspan><tspan class="val">Learning Engineering Fundamentals &amp; Building Real Products</tspan>
+    </text>
+
+    <!-- Prompt 2: mission / echo -->
+    <text x="0" y="206">
+      <tspan class="prompt">aadvik@engineering</tspan><tspan fill="#64748B">:</tspan><tspan fill="#38BDF8">~</tspan><tspan fill="#64748B">$ </tspan><tspan class="cmd">cat ~/.philosophy</tspan>
+    </text>
+    <text x="0" y="234" class="highlight" filter="url(#promptGlow)">
+      &gt; "Engineering is the craft of turning curiosity into resilient software."
+    </text>
+
+    <!-- Active prompt waiting for input -->
+    <text x="0" y="266">
+      <tspan class="prompt">aadvik@engineering</tspan><tspan fill="#64748B">:</tspan><tspan fill="#38BDF8">~</tspan><tspan fill="#64748B">$ </tspan><tspan class="cursor">█</tspan>
+    </text>
+  </g>
+</svg>
