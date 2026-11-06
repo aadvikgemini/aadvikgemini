@@ -113,34 +113,7 @@ Stack : React · TypeScript · Tailwind CSS · Vite
 
 <div align="center">
 
-#### Core Languages & Foundation
-<img src="https://img.shields.io/badge/Python-0B1628?style=for-the-badge&logo=python&logoColor=22D3EE" alt="Python" />
-&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-0B1628?style=for-the-badge&logo=typescript&logoColor=22D3EE" alt="TypeScript" />
-&nbsp;
-<img src="https://img.shields.io/badge/HTML5-0B1628?style=for-the-badge&logo=html5&logoColor=22D3EE" alt="HTML5" />
-&nbsp;
-<img src="https://img.shields.io/badge/CSS3-0B1628?style=for-the-badge&logo=css3&logoColor=22D3EE" alt="CSS3" />
-
-<br/>
-
-#### Frontend Development
-<img src="https://img.shields.io/badge/React-0B1628?style=for-the-badge&logo=react&logoColor=22D3EE" alt="React" />
-&nbsp;
-<img src="https://img.shields.io/badge/Tailwind_CSS-0B1628?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE" alt="Tailwind CSS" />
-&nbsp;
-<img src="https://img.shields.io/badge/Vite-0B1628?style=for-the-badge&logo=vite&logoColor=22D3EE" alt="Vite" />
-
-<br/>
-
-#### Backend, Storage & Tooling
-<img src="https://img.shields.io/badge/FastAPI-0B1628?style=for-the-badge&logo=fastapi&logoColor=22D3EE" alt="FastAPI" />
-&nbsp;
-<img src="https://img.shields.io/badge/SQLite-0B1628?style=for-the-badge&logo=sqlite&logoColor=22D3EE" alt="SQLite" />
-&nbsp;
-<img src="https://img.shields.io/badge/Git-0B1628?style=for-the-badge&logo=git&logoColor=22D3EE" alt="Git" />
-&nbsp;
-<img src="https://img.shields.io/badge/GitHub-0B1628?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
+<img width="100%" src="./assets/engineering-arsenal.svg" alt="Engineering Arsenal — Authentic Verified Tech Stack" />
 
 </div>
 
