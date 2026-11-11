@@ -84,7 +84,7 @@ Stack : Python · FastAPI · SQLite · Pydantic · JWT
 </td>
 <td width="50%" valign="top">
 
-### 🌐 [Personal Portfolio](https://github.com/aadvikgemini/Aadvik-portfolio)
+### 🌐 [Personal Portfolio](https://portfolio-2-six-kappa.vercel.app/)
 > *Interactive personal developer portfolio showcasing engineering projects and identity.*
 
 - **Frontend Core:** Built with React 18 and strict TypeScript for robust type safety.
